@@ -9,7 +9,7 @@ import pickle
 # 将所有可用的配置项写在字典里, 请使用小写字母
 available_setting = {
     # openai api配置
-    "open_ai_api_key": "",  # openai api key
+    "open_ai_api_key": "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",  # openai api key
     # openai apibase，当use_azure_chatgpt为true时，需要设置对应的api base
     "open_ai_api_base": "https://api.openai.com/v1",
     "proxy": "",  # openai使用的代理
